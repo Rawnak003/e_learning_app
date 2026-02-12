@@ -83,12 +83,12 @@ The system follows a layered architecture:
 
 ### Development
 ---------------
-flutter pub get
-flutter run
+- flutter pub get
+- flutter run
 
 ---
 
 ### Platform
 ---------------
-Android
-iOS
+- Android
+- iOS

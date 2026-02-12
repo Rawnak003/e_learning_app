@@ -1,6 +1,4 @@
 
-# 🏢 Enterprise-Level Production Documentation Version
-
 # 📚 E-Learning Expert Booking Platform
 
 ## Overview
